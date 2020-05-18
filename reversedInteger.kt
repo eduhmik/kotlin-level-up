@@ -1,3 +1,12 @@
+// Write a program that reads a three-digit number, reverses the order of its digits, and outputs a new number.
+
+// Sample Input 1:
+
+// 862
+// Sample Output 1:
+
+// 268
+
 import java.util.Scanner
 
 fun main(args: Array<String>) {
