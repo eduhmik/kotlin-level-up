@@ -32,8 +32,8 @@ class Solution {
         
     init {
         mappings.put('(', ')')
-        mappings.put('}', '{')
-        mappings.put(']', '[')
+        mappings.put('{', '}')
+        mappings.put('[', ']')
     }
     fun isValid(s: String): Boolean {
         println(s)
